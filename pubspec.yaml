@@ -58,6 +58,6 @@ flutter:
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
 flutter_native_splash:
-    image: assets/app_splash_icon.png
+    image: assets/app_splash.png
     color: "#010101"
-    android_gravity: center
+    

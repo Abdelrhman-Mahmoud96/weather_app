@@ -7,7 +7,7 @@
  - pull to refresh current location forecast
  - showing extra info (rain propabilty, wind speed, humidity, and sunrise/sunset times)  
  - using bloc for state management
- - powered by Accuweather API
+ - powered by Accuweather API https://developer.accuweather.com/apis
  - implemented with the clean architicture Principle https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
  - using S.O.L.I.D. Principles and Dependency injection for maintainability https://en.wikipedia.org/wiki/SOLID
  
